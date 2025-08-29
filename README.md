@@ -27,9 +27,11 @@ I like diving into messy data, designing end-to-end pipelines, and turning ideas
 ---
 
 ## 📊 GitHub Stats  
-![Felicia's GitHub stats](https://github-readme-stats.vercel.app/api?username=feliciadrey&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=feliciadrey&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=feliciadrey&theme=radical)  
+![Felicia's GitHub stats](https://github-readme-stats.vercel.app/api?username=feliciadrey&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=feliciadrey&layout=compact&theme=cobalt)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=feliciadrey&theme=cobalt)
+
+
 
 ---
 
