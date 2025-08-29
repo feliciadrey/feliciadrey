@@ -4,7 +4,7 @@ I'm a Data Science student at BINUS University specializing in **machine learnin
 
 Most of my projects focus on applying ML/DL methods, building predictive models, and uncovering insights from data. I also enjoy creating visualizations and experimenting with different approaches to make sense of complex datasets.  
 
-Outside the data side of things, I’ve had some experience working across the stack — from building frontends to setting up APIs and workflows, which helps me bridge analysis with real-world applications when needed.  
+Outside the data side of things, I’ve had some experience working across the stack, from building frontends to setting up APIs and workflows, which helps me bridge analysis with real-world applications when needed.  
 
 I like diving into messy data, designing end-to-end pipelines, and turning ideas into something useful (❁´◡`❁).  
 
