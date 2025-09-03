@@ -36,6 +36,6 @@ Outside the data side of things, I’ve had some experience working across the s
 ---
 
 ## 🤝 Let's Connect  
-- 💼 LinkedIn: [linkedin.com/in/feliciaaudreytanujaya](https://linkedin.com/in/feliciaaudreytanujaya)  
-- 📧 Email: feliciadrey@gmail.com   
-Thanks for stopping by! ٩(ˊᗜˋ*)و ･ﾟ✧  
+💼 LinkedIn: [linkedin.com/in/feliciaaudreytanujaya](https://linkedin.com/in/feliciaaudreytanujaya)  
+📧 Email: feliciadrey@gmail.com   
+Thanks for stopping by!･ﾟ✧  
