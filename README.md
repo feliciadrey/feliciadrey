@@ -1,4 +1,4 @@
-# Hi, I'm Felicia! (｡•̀ᴗ-)✧  
+# Hi, I'm Felicia!✧  
 
 I'm a Data Science student at BINUS University specializing in **machine learning, deep learning, data analysis, and statistical/predictive modeling**.  
 
@@ -19,7 +19,7 @@ Outside the data side of things, I’ve had some experience working across the s
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 Stats  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=feliciadrey&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=feliciadrey&theme=radical)
 
