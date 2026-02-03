@@ -2,9 +2,9 @@
 
 I'm a Data Science student at BINUS University specializing in **machine learning, deep learning, data analysis, and statistical/predictive modeling**.  
 
-Most of my projects focus on applying ML/DL methods, from classical predictive modeling to NLP and computer vision. I enjoy exploring data to uncover patterns, generate insights, and evaluate different approaches to complex problems. 
+Most of my projects focus on applying ML/DL methods, from classical predictive modeling to computer vision and NLP. I enjoy exploring data to uncover patterns, generate insights, and evaluate different approaches to complex problems. 
 
-Outside the data side of things, I’ve had some experience working across the stack, from building frontends to setting up APIs and workflows, which helps me bridge analysis with real-world applications when needed.  
+Outside the data side of things, I’ve had some experience working across the stack such as building frontends to setting up APIs and workflows, which helps me bridge analysis with real-world applications when needed.  
 
 ---
 
